@@ -1,7 +1,7 @@
 development:
   sessions:
     default:
-      database: carde_development
+      database: carte_francais_development
       hosts:
         - localhost:27017
 production:
