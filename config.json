@@ -1,0 +1,6 @@
+{
+  "title": "carte francais",
+  "description": "carte for french learners",
+  "public_folder": "public",
+  "script_path": "public/app.js"
+}
