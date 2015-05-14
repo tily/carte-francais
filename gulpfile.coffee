@@ -1,3 +1,4 @@
+console.log 'hello'
 gulp = require 'gulp'
-Carte = require 'carte-client'
-new Carte().install(gulp, __dirname + '/config.json')
+Tasks = require('carte-client').Tasks
+(new Tasks).install(gulp, __dirname + '/config.json')
